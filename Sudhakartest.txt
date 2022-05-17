@@ -1,2 +1,0 @@
-echo "Good Morning "
-echo "Testing access"
